@@ -1,5 +1,5 @@
-import React, { Component, useState } from 'react';
-import { Link, withRouter } from 'react-router-dom';
+import React, { useState } from 'react';
+import { withRouter } from 'react-router-dom';
 import {
     Collapse,
     Navbar,
@@ -23,8 +23,8 @@ const Navigation = (props) => {
         return (
             <div className="">
 
-                <Navbar className="navigation" color="info" dark extended="md">
-                    <NavbarBrand href="/">Sinekamva Foundation Inc</NavbarBrand>
+                <Navbar className="navigation" dark extended="md">
+                    <NavbarBrand href="/">Happy Hour Foundation</NavbarBrand>
                     <NavbarToggler onClick={toggle} />
                     <Collapse isOpen={isOpen} navbar>
                         <Nav className="mr-auto" navbar>
