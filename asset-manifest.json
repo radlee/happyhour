@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/happyhour/static/css/main.fb707286.chunk.css",
+    "main.js": "/happyhour/static/js/main.9e05813c.chunk.js",
+    "main.js.map": "/happyhour/static/js/main.9e05813c.chunk.js.map",
+    "runtime-main.js": "/happyhour/static/js/runtime-main.85461974.js",
+    "runtime-main.js.map": "/happyhour/static/js/runtime-main.85461974.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/happyhour/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.935201e5.chunk.js": "/happyhour/static/js/2.935201e5.chunk.js",
+    "static/js/2.935201e5.chunk.js.map": "/happyhour/static/js/2.935201e5.chunk.js.map",
+    "index.html": "/happyhour/index.html",
+    "precache-manifest.27bcabd6820557901bde6843ca90b619.js": "/happyhour/precache-manifest.27bcabd6820557901bde6843ca90b619.js",
+    "service-worker.js": "/happyhour/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/happyhour/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fb707286.chunk.css.map": "/happyhour/static/css/main.fb707286.chunk.css.map",
+    "static/js/2.935201e5.chunk.js.LICENSE.txt": "/happyhour/static/js/2.935201e5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/happyhour/static/media/sponsor.4f35f93b.jpg",
+    "static/media/bsponsor.png": "/happyhour/static/media/bsponsor.b0b095ad.png",
+    "static/media/circles.png": "/happyhour/static/media/circles.028532d0.png",
+    "static/media/hhf1.jpg": "/happyhour/static/media/hhf1.808d6ac0.jpg",
+    "static/media/hhf2.jpg": "/happyhour/static/media/hhf2.af65d585.jpg",
+    "static/media/logo512.png": "/happyhour/static/media/logo512.4c253aa3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85461974.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.935201e5.chunk.js",
+    "static/css/main.fb707286.chunk.css",
+    "static/js/main.9e05813c.chunk.js"
+  ]
+}
