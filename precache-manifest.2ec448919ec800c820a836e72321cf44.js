@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "598f23c854bec42d47b71a47b8700ac9",
+    "revision": "d443c85181002477a480d69c4429452e",
     "url": "/happyhour/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happyhour/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9514808e81fc61acf950",
-    "url": "/happyhour/static/css/main.c857a056.chunk.css"
+    "revision": "e82765e1055f4567ce06",
+    "url": "/happyhour/static/css/main.60427561.chunk.css"
   },
   {
     "revision": "92f1774cb3a0f6877725",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happyhour/static/js/2.41d4bf05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9514808e81fc61acf950",
+    "revision": "e82765e1055f4567ce06",
     "url": "/happyhour/static/js/main.31960328.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/happyhour/static/css/main.c857a056.chunk.css",
+    "main.css": "/happyhour/static/css/main.60427561.chunk.css",
     "main.js": "/happyhour/static/js/main.31960328.chunk.js",
     "main.js.map": "/happyhour/static/js/main.31960328.chunk.js.map",
     "runtime-main.js": "/happyhour/static/js/runtime-main.85461974.js",
@@ -9,10 +9,10 @@
     "static/js/2.41d4bf05.chunk.js": "/happyhour/static/js/2.41d4bf05.chunk.js",
     "static/js/2.41d4bf05.chunk.js.map": "/happyhour/static/js/2.41d4bf05.chunk.js.map",
     "index.html": "/happyhour/index.html",
-    "precache-manifest.94c407976319c78ed23ea22cb1288118.js": "/happyhour/precache-manifest.94c407976319c78ed23ea22cb1288118.js",
+    "precache-manifest.2ec448919ec800c820a836e72321cf44.js": "/happyhour/precache-manifest.2ec448919ec800c820a836e72321cf44.js",
     "service-worker.js": "/happyhour/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/happyhour/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c857a056.chunk.css.map": "/happyhour/static/css/main.c857a056.chunk.css.map",
+    "static/css/main.60427561.chunk.css.map": "/happyhour/static/css/main.60427561.chunk.css.map",
     "static/js/2.41d4bf05.chunk.js.LICENSE.txt": "/happyhour/static/js/2.41d4bf05.chunk.js.LICENSE.txt",
     "static/media/App.css": "/happyhour/static/media/is.cd16e71c.jpg",
     "static/media/five.jpg": "/happyhour/static/media/five.edcf4aaa.jpg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.85461974.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.41d4bf05.chunk.js",
-    "static/css/main.c857a056.chunk.css",
+    "static/css/main.60427561.chunk.css",
     "static/js/main.31960328.chunk.js"
   ]
 }
