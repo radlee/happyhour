@@ -111,8 +111,8 @@ Form {
   background-repeat: no-repeat;
   color: #ffffff;
   background-position: center;
-  border-bottom: 8px solid #f7e300;
-  border-top: 8px solid #0077a2;
+  border-bottom: 8px solid rgb(0 118 163);
+  border-top: 8px solid rgb(0 118 163);
   border-radius: 0px !important;
 }
 .notice-one {
@@ -121,18 +121,19 @@ Form {
   background-repeat: no-repeat;
   color: #ffffff;
   background-position: center;
-  border-bottom: 8px solid #f7e300;
-  border-top: 8px solid #0077a2;
+  border-bottom: 8px solid rgb(0 118 163);
+  border-top: 8px solid rgb(0 118 163);
   border-radius: 0px !important;
 }
+
 .notice-sponsor {
   /* background-image: url("./sponsor.jpg"); */
   background-size: cover;
   background-repeat: no-repeat;
   color: #3a3a3a;
   background-position: center;
-  border-bottom: 8px solid #4200f79f;
-  border-top: 8px solid #a20d00;
+  border-bottom: 8px solid rgb(0 118 163);
+  border-top: 8px solid rgb(0 118 163);
   border-radius: 0px !important;
 }
 .notice-inno {
@@ -141,8 +142,8 @@ Form {
   background-repeat: no-repeat;
   color: #ffffff;
   background-position: center;
-  border-bottom: 8px solid #f7e300;
-  border-top: 8px solid #0077a2;
+  border-bottom: 8px solid rgb(0 118 163);
+  border-top: 8px solid rgb(0 118 163);
   border-radius: 0px !important;
 }
 .notice-two {
@@ -151,8 +152,8 @@ Form {
   background-repeat: no-repeat;
   color: #ffffff;
   background-position: center;
-  border-bottom: 8px solid #f7e300;
-  border-top: 8px solid #0077a2;
+  border-bottom: 8px solid rgb(0 118 163);
+  border-top: 8px solid rgb(0 118 163);
   border-radius: 0px !important;
 }
 body {
