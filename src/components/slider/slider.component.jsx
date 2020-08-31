@@ -11,7 +11,13 @@ import {
 
 import lee from '../../media/hhf1.jpg';
 import sean from '../../media/hhf2.jpg';
-import siya from '../../media/logo512.png';
+import one from '../../media/one.jpg';
+import two from '../../media/two.jpg';
+import three from '../../media/three.jpg';
+import four from '../../media/four.jpg';
+import five from '../../media/five.jpg';
+import six from '../../media/six.jpg';
+import seven from '../../media/seven.jpg';
 
 const items = [
     {
@@ -21,7 +27,25 @@ const items = [
       src: sean,
     },
     {
-      src: siya,
+      src: one,
+    },
+    {
+      src: two,
+    },
+    {
+      src: three,
+    },
+    {
+      src: four,
+    },
+    {
+      src: five,
+    },
+    {
+      src: six,
+    },
+    {
+      src: seven,
     }
   ];
 
@@ -48,6 +72,7 @@ const Notice = (props) => {
 
       const slides = items.map((item) => {
         return (
+          
           <CarouselItem
             onExiting={() => setAnimating(true)}
             onExited={() => setAnimating(false)}

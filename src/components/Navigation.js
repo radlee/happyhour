@@ -8,11 +8,6 @@ import {
     Nav,
     NavItem,
     NavLink,
-    UncontrolledDropdown,
-    DropdownMenu,
-    DropdownItem,
-    NavbarText,
-    DropdownToggle
 } from 'reactstrap';
 
 const Navigation = (props) => {
@@ -29,30 +24,19 @@ const Navigation = (props) => {
                     <Collapse isOpen={isOpen} navbar>
                         <Nav className="mr-auto" navbar>
                             <NavItem>
-                                <NavLink href="/about/">About</NavLink>
+                                <NavLink href="#landing">Landing</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="/partners/">Partners</NavLink>
+                                <NavLink href="#intro">Introduction</NavLink>
                             </NavItem>
-                            <UncontrolledDropdown nav inNavbar>
-                                <DropdownToggle nav caret>
-                                    Projects
-                                </DropdownToggle>
-                                <DropdownMenu right>
-                                    <DropdownItem>
-                                        Project 1
-                                    </DropdownItem>
-                                    <DropdownItem>
-                                        Project 2
-                                    </DropdownItem>
-                                    <DropdownItem divider />
-                                    <DropdownItem>
-                                        Manage Projects
-                                    </DropdownItem>
-                                </DropdownMenu>
-                            </UncontrolledDropdown>
+                            <NavItem>
+                                <NavLink href="#vision">Vision and Mission</NavLink>
+                            </NavItem>
+                            <NavItem>
+                                <NavLink href="#contact">Contact Us</NavLink>
+                            </NavItem>
                         </Nav>
-                        <NavbarText>Team</NavbarText>
+                        {/* <NavbarText>Team</NavbarText> */}
                     </Collapse>
                 </Navbar>     
             </div>

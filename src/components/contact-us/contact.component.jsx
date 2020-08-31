@@ -6,7 +6,7 @@ class ContactForm extends Component {
 
     render() {
         return(
-            <div>
+            <div id="contact">
                 <Container>
                     <h1 className="h1">Contact Us</h1>
                     <hr className="heading-horizon" />

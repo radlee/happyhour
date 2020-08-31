@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap';
-import logo from '../../media/circles.png';
+import logo from '../../media/logo512.jpg';
 
 export default class Spinner extends Component {
    render () {
