@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d443c85181002477a480d69c4429452e",
+    "revision": "43c2009bc0e107d7d18035e4e7b1a23e",
     "url": "/happyhour/index.html"
   },
   {
-    "revision": "92f1774cb3a0f6877725",
+    "revision": "ba3fabb4de27fdc81ed4",
     "url": "/happyhour/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "e82765e1055f4567ce06",
-    "url": "/happyhour/static/css/main.60427561.chunk.css"
+    "revision": "31de6a9287e1a2bdb15f",
+    "url": "/happyhour/static/css/main.2ceea2d6.chunk.css"
   },
   {
-    "revision": "92f1774cb3a0f6877725",
-    "url": "/happyhour/static/js/2.41d4bf05.chunk.js"
+    "revision": "ba3fabb4de27fdc81ed4",
+    "url": "/happyhour/static/js/2.bc2aaf14.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/happyhour/static/js/2.41d4bf05.chunk.js.LICENSE.txt"
+    "url": "/happyhour/static/js/2.bc2aaf14.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e82765e1055f4567ce06",
-    "url": "/happyhour/static/js/main.31960328.chunk.js"
+    "revision": "31de6a9287e1a2bdb15f",
+    "url": "/happyhour/static/js/main.05d73db0.chunk.js"
   },
   {
     "revision": "e76789381b040c1c1e50",
     "url": "/happyhour/static/js/runtime-main.85461974.js"
-  },
-  {
-    "revision": "105350c582905ebaf0e1bb5858899848",
-    "url": "/happyhour/static/media/bg1.105350c5.jpg"
   },
   {
     "revision": "105350c582905ebaf0e1bb5858899848",
@@ -38,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f17b78468101cd1e8f0a198bdb756513",
     "url": "/happyhour/static/media/bg3.f17b7846.jpg"
-  },
-  {
-    "revision": "33235993e202013c2e9b39de58775628",
-    "url": "/happyhour/static/media/bg4.33235993.jpg"
   },
   {
     "revision": "edcf4aaa45bdf5d8650e6e7b18eee67f",
@@ -58,14 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "af65d585537c97866f78d8ea45a9d1ed",
     "url": "/happyhour/static/media/hhf2.af65d585.jpg"
-  },
-  {
-    "revision": "fc0a33a2d6c1d15874c0bb5312f81d2e",
-    "url": "/happyhour/static/media/inno.fc0a33a2.jpg"
-  },
-  {
-    "revision": "cd16e71c85ae46fbf4856cb7c862f5fa",
-    "url": "/happyhour/static/media/is.cd16e71c.jpg"
   },
   {
     "revision": "312eb489be9d3ac03fcfe9beb0585554",

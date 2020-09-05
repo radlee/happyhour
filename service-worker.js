@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/happyhour/precache-manifest.2ec448919ec800c820a836e72321cf44.js"
+  "/happyhour/precache-manifest.47800a8a8a531b13989b2cea1e4c25d3.js"
 );
 
 self.addEventListener('message', (event) => {
