@@ -17,10 +17,10 @@ class App extends Component {
         <div className="App">
           <Navigation />
           <Jumbotron id="landing" className="jumbotron">
-              <h1 className="display-3">Happy Hour Foundation</h1>
-              <p className="lead"><em>Passionate about providing help, a better solution & support homeless people and underprivileged communities. <strong>"It is a home of kindness in our lifetime"</strong></em></p>
+              <h1 className="display-3">HAPPY HOUR FOUNDATION</h1>
+              <p className="lead"><em><span className="lead-span">Passionate about providing help, a better solution & support homeless people and underprivileged communities. <strong>"It is a home of kindness in our lifetime"</strong></span></em></p>
               <hr className="my-2" />
-              <p className="lead2"> INTERGRIITY | COMPASSION | PERSEVERANCE </p>
+              <p className="lead2"> <span className="lead-span1">INTERGRIITY</span> | <span className="lead-span2">COMPASSION</span> | <span className="lead-span3">PERSEVERANCE</span> </p>
               <p className="">
                   {/* <Button color="primary">Contact</Button> */}
               </p>

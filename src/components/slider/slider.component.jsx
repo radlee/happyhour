@@ -78,7 +78,7 @@ const Notice = (props) => {
             onExited={() => setAnimating(false)}
             key={item.src}
           >
-            <img src={item.src} height="300px" alt={item.altText} />
+            <img src={item.src} height="250px" alt={item.altText} />
             <CarouselCaption captionText={item.caption} captionHeader={item.caption} />
           </CarouselItem>
         );
